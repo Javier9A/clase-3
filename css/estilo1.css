@@ -1,0 +1,26 @@
+h1 {
+    color: crimson;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    padding: 15px;
+    border: 10px;
+    border-style: dashed;
+}
+p {
+    color:indigo; 
+    text-align: justify;   
+    border-radius: 25px;
+    border-style: solid;
+    padding: 10px;
+}
+img {
+    width: 35%;
+}
+body {
+    background-color: bisque;
+}
+* {
+    font-family: tahoma;
+    margin: 25px;
+}
